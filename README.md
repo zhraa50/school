@@ -1,11 +1,11 @@
 
-** Private Teacher**
+Private Teacher
 
+websites helps Student to serch a tutor (private teacher) .
 
--   websites  helps Student to serch a  tutor    (private teacher) .
+the student can reservation of the subject .
 
-- the student  can  reservation of the subject .
-
+=============
 ###postman 
  https://documenter.getpostman.com/view/21096448/UzBmMSkG
  
